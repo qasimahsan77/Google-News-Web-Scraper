@@ -1,0 +1,28 @@
+c:\users\qasimahsan\documents\visual studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\bin\Microsoft.PythonTools.WebRole.dll
+c:\users\qasimahsan\documents\visual studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\attach_server.py
+c:\users\qasimahsan\documents\visual studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\visualstudio_py_debugger.py
+c:\users\qasimahsan\documents\visual studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\visualstudio_py_repl.py
+c:\users\qasimahsan\documents\visual studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\visualstudio_py_util.py
+c:\users\qasimahsan\documents\visual studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\__init__.py
+c:\users\qasimahsan\documents\visual studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\__main__.py
+c:\users\qasimahsan\documents\visual studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\bin\AzureSetup.cfg
+c:\users\qasimahsan\documents\visual studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\bin\Microsoft.PythonTools.AzureSetup.exe
+c:\users\qasimahsan\documents\visual studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\bin\Microsoft.PythonTools.AzureSetup.exe.config
+c:\users\qasimahsan\documents\visual studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\bin\wfastcgi.py
+c:\users\qasimahsan\documents\visual studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\web.config
+c:\users\qasimahsan\documents\visual studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\web.debug.config
+C:\Users\QasimAhsan\Documents\Visual Studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\QasimAhsan\Documents\Visual Studio 2015\Projects\GoogleNewsWeb\GoogleNewsWeb\ptvs_virtualenv_proxy.py
+C:\Users\Qasim Chaudhry\Desktop\GoogleNewsWeb\GoogleNewsWeb\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Qasim Chaudhry\Desktop\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\attach_server.py
+C:\Users\Qasim Chaudhry\Desktop\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Qasim Chaudhry\Desktop\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\visualstudio_py_repl.py
+C:\Users\Qasim Chaudhry\Desktop\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\visualstudio_py_util.py
+C:\Users\Qasim Chaudhry\Desktop\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\__init__.py
+C:\Users\Qasim Chaudhry\Desktop\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\__main__.py
+C:\Users\Qasim Chaudhry\Desktop\GoogleNewsWeb\GoogleNewsWeb\bin\AzureSetup.cfg
+C:\Users\Qasim Chaudhry\Desktop\GoogleNewsWeb\GoogleNewsWeb\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Qasim Chaudhry\Desktop\GoogleNewsWeb\GoogleNewsWeb\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Qasim Chaudhry\Desktop\GoogleNewsWeb\GoogleNewsWeb\bin\wfastcgi.py
+C:\Users\Qasim Chaudhry\Desktop\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\web.config
+C:\Users\Qasim Chaudhry\Desktop\GoogleNewsWeb\GoogleNewsWeb\obj\Debug\web.debug.config
